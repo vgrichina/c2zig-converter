@@ -6,16 +6,21 @@ A web-based tool for transforming unsafe C/C++ code into memory-safe Zig equival
 
 🌐 **[Try it now at c2zig.berrry.app](https://c2zig.berrry.app)**
 
-## Remix This Project
+## Fork This Project
 
-Want to customize this tool for your own use? Remix it on Berrry:
+Want to customize this tool? Fork it on Berrry by tweeting your modification:
 
-1. Visit [c2zig.berrry.app](https://c2zig.berrry.app)
-2. Click the "Remix" button (or visit the app settings on Berrry)
-3. Modify the prompts, UI, or functionality using natural language
-4. Get your own customized version instantly!
+🐦 **[Tweet to fork](https://twitter.com/intent/tweet?text=@BerrryComputer%20Fork%20c2zig.berrry.app%20with%20neobrutalist%20design)** 
 
-Learn more about remixing at [berrry.app](https://berrry.app)
+Example: `@BerrryComputer Fork c2zig.berrry.app with neobrutalist design`
+
+Add your own customization ideas:
+- "with neobrutalist design"
+- "add syntax highlighting for code"
+- "make it mobile-friendly"
+- "add dark/light mode toggle"
+
+Learn more about Berrry at [berrry.app](https://berrry.app)
 
 ## Features
 
@@ -28,8 +33,7 @@ Learn more about remixing at [berrry.app](https://berrry.app)
   - **Balanced**: Balance safety with C compatibility where needed
   - **Permissive**: Allow some unsafe for direct C interop
 
-- **Smart Features**:
-  - Live streaming responses from AI
+- **Additional Features**:
   - Customizable prompt templates
   - Optional test generation
   - Comment preservation
